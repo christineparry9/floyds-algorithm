@@ -1,69 +1,65 @@
-# Floyd-Warshall Algorithm Implementation 
+# Floyd-Warshall Algorithm Implementation
 
-  
 
-## Description 
 
-  
+## Description
 
-This project contains Python implementations of the Floyd-Warshall algorithm in a recursive manner to find the shortest paths in a weighted graph. Unit tests are also included to verify the correctness of the implementation. 
 
-  
 
-## Requirements 
+This project contains Python implementations of the Floyd-Warshall algorithm in a recursive manner to find the shortest paths in a weighted graph. Unit tests are also included to verify the correctness of the implementation.
 
-  
 
-- Python 3.x 
 
-  
+## Requirements
 
-## Installation 
 
-  
 
-1. Clone the repository: 
+- Python 3.x
 
-  
 
-    ``` 
 
-    git clone https://github.com/christine.parry9/floyds-algorithm.git 
+## Installation
 
-    ``` 
 
-  
 
-2. Navigate to the project directory: 
+1. Clone the repository:
 
-  
 
-    ``` 
 
-    cd floyds-algorithm 
+    ```
 
-    ``` 
+    git clone https://github.com/christineparry9/floyds-algorithm.git
 
-  
+    ```
 
-3. Install the required packages: 
 
-  
 
-    ``` 
+2. Navigate to the project directory:
 
-    pip install -r requirements.txt 
 
-    ``` 
 
-  
+    ```
 
-## Usage 
+    cd floyds-algorithm
 
-  
+    ```
 
-Run the `main.py` file to execute the program: 
 
- 
 
- 
+3. Install the required packages:
+
+
+
+    ```
+
+    pip install -r requirements.txt
+
+    ```
+
+
+
+## Usage
+
+
+
+Run the `main.py` file to execute the program:
