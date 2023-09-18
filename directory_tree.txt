@@ -3,3 +3,4 @@ floyds_agorithm/
 ├─ readme.md
 ├─ requirements.txt
 ├─ test.py
+├─ test_time_it.py
