@@ -63,3 +63,7 @@ This project contains Python implementations of the Floyd-Warshall algorithm in 
 
 
 Run the `main.py` file to execute the program:
+
+Run the `test_.py` file to execute the unit tests:
+
+Run the `test_time_it.py` file to execute the timeit tests:
